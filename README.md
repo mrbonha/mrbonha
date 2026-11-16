@@ -10,6 +10,13 @@ Business lives at **[@Bonham-Technologies](https://github.com/Bonham-Technologie
 - Still do security work (came up in defense/federal, cleared) — but the product is the software, not the paperwork
 - Keeping project memory in Jira/Confluence so no decision dies in a chat window
 
-**Elsewhere:** [ESCAPE Suite](https://escapesuite.io) is free and open source if you need a screen recorder that never uploads anything.
+**Building at Bonham Technologies**
+- [ESCAPESUITE](https://www.escapesuite.io): screen recording and video editing that runs entirely in the browser. Free, Apache-2.0, works airgapped
+- [Coglossa](https://coglossa.com): multi-agent translation, with translators, a reviewer and a judge on different models
+- [Corelata](https://corelata.com): analytic reports from an agent team, every source traceable
+- [Unvarnish](https://unvarnish.com): agentic code review for the AI tools showing up inside companies
+- Wickmill: agent orchestration you can watch run (in design)
 
-📍 Utah · ✉️ matt@bonham.tech
+Want one of these on your own hardware, or something new built the same way? [See the fixed-price offers](https://bonham.tech/#offers).
+
+📍 Utah · ✉️ [matt@bonham.tech](mailto:matt@bonham.tech) · 𝕏 [@bonhamtech](https://x.com/bonhamtech)
